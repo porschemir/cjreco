@@ -48,7 +48,7 @@ function Eyebrow({ children }: { children: string }) {
 function StoreButtons() {
   return (
     <div className="grid grid-cols-2 gap-2.5">
-      <a href="https://taprkr.com/r/eyJ0IjoicmVjb3NvY2lhbC1jcHIiLCJ0aWQiOiI3ZjNkMGY2NDRkNGRjOTNiMjFhOSIsInRzIjoxNzkyNDIwMTIwOTYzfQ" 
+      <a href="https://taprkr.com/r/eyJ0IjoiZnJlZWNhc2gtY3BpIiwidGlkIjoiN2YzZDBmNjQ0ZDRkYzkzYjIxYTkiLCJ0cyI6MTc5MjUwNjMyMDA0MX0" 
         className="flex items-center justify-center gap-3 rounded-xl bg-ink py-3 text-background">
         <span className="text-xl"></span>
         <span className="text-left leading-tight">
@@ -57,7 +57,7 @@ function StoreButtons() {
         </span>
       </a>
       <a
-        href="https://taprkr.com/r/eyJ0IjoicmVjb3NvY2lhbC1jcHIiLCJ0aWQiOiI3ZjNkMGY2NDRkNGRjOTNiMjFhOSIsInRzIjoxNzkyNDIwMTIwOTYzfQ"
+        href="https://taprkr.com/r/eyJ0IjoiZnJlZWNhc2gtY3BpIiwidGlkIjoiN2YzZDBmNjQ0ZDRkYzkzYjIxYTkiLCJ0cyI6MTc5MjUwNjMyMDA0MX0"
         className="flex items-center justify-center gap-3 rounded-xl bg-brand py-3 text-primary-foreground shadow-brand"
       >
         <span className="text-xl">▶</span>
@@ -292,7 +292,7 @@ function Index() {
 
       <div className="fixed inset-x-0 bottom-0 z-20 border-t bg-background/95 px-5 py-3 backdrop-blur">
         <a
-          href="https://taprkr.com/r/eyJ0IjoicmVjb3NvY2lhbC1jcHIiLCJ0aWQiOiI3ZjNkMGY2NDRkNGRjOTNiMjFhOSIsInRzIjoxNzkyNDIwMTIwOTYzfQ"
+          href="https://taprkr.com/r/eyJ0IjoiZnJlZWNhc2gtY3BpIiwidGlkIjoiN2YzZDBmNjQ0ZDRkYzkzYjIxYTkiLCJ0cyI6MTc5MjUwNjMyMDA0MX0"
           className="mx-auto flex max-w-[448px] items-center justify-center gap-2 rounded-xl bg-brand py-4 text-lg font-bold text-primary-foreground shadow-brand"
         >
           Kostenlos spielen auf iOS & Android →
